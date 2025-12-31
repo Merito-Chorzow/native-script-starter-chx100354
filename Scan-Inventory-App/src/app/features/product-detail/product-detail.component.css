@@ -46,7 +46,7 @@
 }
 .action-buttons {
   margin-top: 20;
-  spacing: 10;
+  padding: 10;
 }
 .btn-edit {
   background-color: #ff9800;
