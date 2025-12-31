@@ -1,0 +1,37 @@
+.page {
+  background-color: #f5f5f5;
+}
+.action-bar {
+  background-color: #2196f3;
+  color: white;
+}
+.settings-container {
+  padding: 20;
+}
+.setting-group {
+  background-color: white;
+  padding: 15;
+  margin-bottom: 15;
+  border-radius: 4;
+}
+.setting-label {
+  font-size: 16;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 10;
+}
+.setting-switch {
+  margin-top: 10;
+}
+.setting-info {
+  font-size: 12;
+  color: #666;
+  margin-top: 5;
+}
+.btn-secondary {
+  background-color: #757575;
+  color: white;
+  padding: 12;
+  margin-top: 20;
+  font-weight: bold;
+}

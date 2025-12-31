@@ -1,3 +1,29 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+.page {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.action-bar {
+  background-color: #2196f3;
+  color: white;
+}
+
+Button {
+  background-color: #2196f3;
+  color: white;
+  padding: 12;
+  border-radius: 4;
+  font-weight: bold;
+}
+
+TextField,
+TextView {
+  border-width: 1;
+  border-color: #ddd;
+  padding: 10;
+  border-radius: 4;
+}
+
+Label {
+  padding: 2;
+}
